@@ -4,7 +4,7 @@ I have changed the line I first added
 
 something
 
-I am adding functionality
+Here is function 2 which does some preprocessing
 
 something
 something
